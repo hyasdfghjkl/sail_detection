@@ -1,0 +1,10 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: torch in d:\20215209 华熠\yolov5-7.0-ssdd-bak\yolov5-7.0-ssdd-bak\virtualenv\.venv\lib\site-packages (2.5.1)
+Requirement already satisfied: filelock in d:\20215209 华熠\yolov5-7.0-ssdd-bak\yolov5-7.0-ssdd-bak\virtualenv\.venv\lib\site-packages (from torch) (3.17.0)
+Requirement already satisfied: typing-extensions>=4.8.0 in d:\20215209 华熠\yolov5-7.0-ssdd-bak\yolov5-7.0-ssdd-bak\virtualenv\.venv\lib\site-packages (from torch) (4.12.2)
+Requirement already satisfied: networkx in d:\20215209 华熠\yolov5-7.0-ssdd-bak\yolov5-7.0-ssdd-bak\virtualenv\.venv\lib\site-packages (from torch) (3.2.1)
+Requirement already satisfied: jinja2 in d:\20215209 华熠\yolov5-7.0-ssdd-bak\yolov5-7.0-ssdd-bak\virtualenv\.venv\lib\site-packages (from torch) (3.1.5)
+Requirement already satisfied: fsspec in d:\20215209 华熠\yolov5-7.0-ssdd-bak\yolov5-7.0-ssdd-bak\virtualenv\.venv\lib\site-packages (from torch) (2024.12.0)
+Requirement already satisfied: sympy==1.13.1 in d:\20215209 华熠\yolov5-7.0-ssdd-bak\yolov5-7.0-ssdd-bak\virtualenv\.venv\lib\site-packages (from torch) (1.13.1)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in d:\20215209 华熠\yolov5-7.0-ssdd-bak\yolov5-7.0-ssdd-bak\virtualenv\.venv\lib\site-packages (from sympy==1.13.1->torch) (1.3.0)
+Requirement already satisfied: MarkupSafe>=2.0 in d:\20215209 华熠\yolov5-7.0-ssdd-bak\yolov5-7.0-ssdd-bak\virtualenv\.venv\lib\site-packages (from jinja2->torch) (3.0.2)
